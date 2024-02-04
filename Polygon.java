@@ -57,7 +57,7 @@ public class Polygon extends JFrame implements ActionListener, ItemListener{
 		getContentPane().setLayout(null);
 		
 		positioning(panel);	
-	    font(cont);	
+	    	font(cont);	
 		getContent(cont);     
 		setTextField();
 		window(cont); 
