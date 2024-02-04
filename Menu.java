@@ -1,3 +1,11 @@
+/*
+ * Program created by: Jehan S. Batang
+ * Section: BSCS 2-5
+ * Subject: Object Oriented Programming
+ * 
+ * Activity 2
+ */
+
 import javax.swing.*;
 import java.awt.Color;
 import java.awt.Container;
